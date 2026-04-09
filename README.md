@@ -73,4 +73,4 @@ Identificamos uma "fricção de registro". Enquanto o monitoramento de passos é
 ---
 
 ## 🚀 Como visualizar os códigos
-O arquivo principal com toda a lógica de limpeza, transformação (Polars) e visualização (Altair) está disponível em: `notebooks/bellabeat_analysis.ipynb`.
+O arquivo principal com toda a lógica de limpeza, transformação (Polars) e visualização (Altair) está disponível em: `notebooks/Bellabeat_Case_Study_Google_Coursera.ipynb`.
